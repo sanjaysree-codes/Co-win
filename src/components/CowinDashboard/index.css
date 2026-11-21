@@ -1,0 +1,36 @@
+/* Write your CSS here */
+.bg-con {
+  background-color: #161625;
+
+  background-size: cover;
+}
+.res-con {
+  width: 80%;
+  margin: auto;
+}
+.flex-con {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+.plus-img {
+  height: 26px;
+  width: 26px;
+}
+.para {
+  color: #2cc6c6;
+  font-weight: 700;
+}
+.p1 {
+  color: white;
+  font-size: 22px;
+}
+.bg-con-1 {
+  background-color: #1c1c2b;
+  background-size: cover;
+  padding: 20px;
+  margin-top: 20px;
+}
+.head {
+  color: #cbd5e1;
+}
